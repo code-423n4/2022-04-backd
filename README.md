@@ -61,7 +61,7 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 
 ---
 
-# Sponsorname contest details
+# Back'd contest details
 - $95,000 USDC main award pot
 - $5,000 USDC gas optimization award pot
 - Join [C4 Discord](https://discord.gg/code4rena) to register
