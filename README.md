@@ -61,11 +61,11 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 
 ---
 
-# Back'd contest details
+# Backd contest details
 - $95,000 USDC main award pot
 - $5,000 USDC gas optimization award pot
 - Join [C4 Discord](https://discord.gg/code4rena) to register
-- Submit findings [using the C4 form](https://code4rena.com/contests/2022-04-Back'd-contest/submit)
+- Submit findings [using the C4 form](https://code4rena.com/contests/2022-04-Backd-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
 - Starts April 21, 2022 00:00 UTC
 - Ends April 27, 2022 23:59 UTC
