@@ -8,9 +8,6 @@
 - Starts April 21, 2022 00:00 UTC
 - Ends April 27, 2022 23:59 UTC
 
-This repo will be made public before the start of the contest. (C4 delete this line when made public)
-
-
 In this document, we give a high-level overview of Backd's code for participants of the Code4arena contest.
 We only focus on the contracts within the scope of the contest.
 
